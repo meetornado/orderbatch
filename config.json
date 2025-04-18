@@ -1,0 +1,7 @@
+{
+    "max_clusters": 5,
+    "coef_x": 1.0,
+    "coef_y": 1.0,
+    "allow_partial": true,
+    "max_schemes": 10
+}
