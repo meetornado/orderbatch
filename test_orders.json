@@ -4,35 +4,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU10",
-        "required_qty": 18,
+        "sku_id": "SKU60",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 22
+            "tote_id": "T70",
+            "location": "RD-41-28-6",
+            "qty": 15
           },
           {
-            "tote_id": "T5",
-            "location": "RB-27-76-3",
-            "qty": 14
+            "tote_id": "T126",
+            "location": "RC-30-35-10",
+            "qty": 13
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU4",
-        "required_qty": 18,
+        "sku_id": "SKU31",
+        "required_qty": 5,
         "available_inventory": [
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
+            "tote_id": "T101",
+            "location": "RA-14-137-4",
+            "qty": 12
           },
           {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
+            "tote_id": "T94",
+            "location": "RC-39-5-3",
+            "qty": 13
+          },
+          {
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 30
           }
         ]
       }
@@ -43,40 +48,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU14",
-        "required_qty": 20,
+        "sku_id": "SKU2",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
-            "qty": 22
+            "tote_id": "T59",
+            "location": "RD-18-54-7",
+            "qty": 15
           },
           {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 24
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU41",
-        "required_qty": 16,
+        "sku_id": "SKU38",
+        "required_qty": 20,
         "available_inventory": [
           {
-            "tote_id": "T176",
-            "location": "RA-15-63-6",
-            "qty": 12
+            "tote_id": "T68",
+            "location": "RD-31-59-8",
+            "qty": 14
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 14
+            "tote_id": "T35",
+            "location": "RD-41-7-5",
+            "qty": 12
           }
         ]
       }
@@ -87,35 +87,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU22",
-        "required_qty": 11,
+        "sku_id": "SKU25",
+        "required_qty": 5,
         "available_inventory": [
           {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 14
+            "tote_id": "T74",
+            "location": "RA-41-131-5",
+            "qty": 12
           },
           {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 24
+            "tote_id": "T164",
+            "location": "RA-9-16-7",
+            "qty": 18
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU44",
-        "required_qty": 12,
+        "sku_id": "SKU3",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T132",
-            "location": "RA-27-65-8",
-            "qty": 27
+            "tote_id": "T135",
+            "location": "RB-8-54-5",
+            "qty": 11
           },
           {
-            "tote_id": "T162",
-            "location": "RD-15-90-1",
-            "qty": 24
+            "tote_id": "T178",
+            "location": "RB-39-32-6",
+            "qty": 23
           }
         ]
       }
@@ -126,40 +126,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU42",
-        "required_qty": 12,
+        "sku_id": "SKU21",
+        "required_qty": 19,
         "available_inventory": [
           {
-            "tote_id": "T171",
-            "location": "RA-1-30-4",
-            "qty": 24
+            "tote_id": "T9",
+            "location": "RB-17-81-5",
+            "qty": 28
           },
           {
-            "tote_id": "T130",
-            "location": "RA-9-96-2",
-            "qty": 21
-          },
-          {
-            "tote_id": "T46",
-            "location": "RB-4-57-10",
-            "qty": 19
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 27
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU11",
-        "required_qty": 17,
+        "sku_id": "SKU10",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 17
+            "tote_id": "T65",
+            "location": "RC-38-44-10",
+            "qty": 19
           },
           {
-            "tote_id": "T2",
-            "location": "RB-35-72-3",
-            "qty": 10
+            "tote_id": "T129",
+            "location": "RD-31-45-9",
+            "qty": 27
+          },
+          {
+            "tote_id": "T74",
+            "location": "RA-41-131-5",
+            "qty": 15
           }
         ]
       }
@@ -170,35 +170,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU3",
-        "required_qty": 11,
+        "sku_id": "SKU31",
+        "required_qty": 12,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 21
+            "tote_id": "T101",
+            "location": "RA-14-137-4",
+            "qty": 12
           },
           {
             "tote_id": "T94",
-            "location": "RA-5-81-6",
+            "location": "RC-39-5-3",
             "qty": 13
+          },
+          {
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU37",
-        "required_qty": 16,
+        "sku_id": "SKU52",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 15
+            "tote_id": "T176",
+            "location": "RA-1-93-6",
+            "qty": 21
           },
           {
-            "tote_id": "T18",
-            "location": "RA-1-88-8",
-            "qty": 23
+            "tote_id": "T30",
+            "location": "RA-5-40-10",
+            "qty": 18
           }
         ]
       }
@@ -209,45 +214,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 5,
+        "sku_id": "SKU27",
+        "required_qty": 10,
         "available_inventory": [
           {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 25
           },
           {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
+            "tote_id": "T66",
+            "location": "RA-23-130-8",
             "qty": 26
-          },
-          {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU55",
-        "required_qty": 6,
+        "sku_id": "SKU37",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 25
+            "tote_id": "T148",
+            "location": "RC-10-36-4",
+            "qty": 16
           },
           {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
+            "tote_id": "T23",
+            "location": "RC-36-67-7",
+            "qty": 17
+          },
+          {
+            "tote_id": "T123",
+            "location": "RD-5-91-10",
             "qty": 11
-          },
-          {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
-            "qty": 29
           }
         ]
       }
@@ -258,35 +258,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU36",
-        "required_qty": 12,
+        "sku_id": "SKU47",
+        "required_qty": 14,
         "available_inventory": [
           {
-            "tote_id": "T2",
-            "location": "RB-35-72-3",
+            "tote_id": "T135",
+            "location": "RB-8-54-5",
             "qty": 21
           },
           {
-            "tote_id": "T114",
-            "location": "RB-22-37-2",
-            "qty": 13
+            "tote_id": "T144",
+            "location": "RB-26-48-10",
+            "qty": 10
+          },
+          {
+            "tote_id": "T33",
+            "location": "RA-38-24-6",
+            "qty": 21
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU3",
-        "required_qty": 18,
+        "sku_id": "SKU42",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 21
+            "tote_id": "T124",
+            "location": "RD-41-59-9",
+            "qty": 17
           },
           {
-            "tote_id": "T94",
-            "location": "RA-5-81-6",
-            "qty": 13
+            "tote_id": "T85",
+            "location": "RD-9-85-4",
+            "qty": 21
           }
         ]
       }
@@ -297,35 +302,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU44",
-        "required_qty": 7,
+        "sku_id": "SKU19",
+        "required_qty": 9,
         "available_inventory": [
           {
-            "tote_id": "T132",
-            "location": "RA-27-65-8",
-            "qty": 27
+            "tote_id": "T104",
+            "location": "RD-3-80-2",
+            "qty": 13
           },
           {
-            "tote_id": "T162",
-            "location": "RD-15-90-1",
-            "qty": 24
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 10
+          },
+          {
+            "tote_id": "T151",
+            "location": "RD-11-31-6",
+            "qty": 25
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU13",
-        "required_qty": 8,
+        "sku_id": "SKU52",
+        "required_qty": 20,
         "available_inventory": [
           {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
+            "tote_id": "T176",
+            "location": "RA-1-93-6",
+            "qty": 21
           },
           {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 28
+            "tote_id": "T30",
+            "location": "RA-5-40-10",
+            "qty": 18
           }
         ]
       }
@@ -336,39 +346,39 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU13",
-        "required_qty": 8,
+        "sku_id": "SKU35",
+        "required_qty": 10,
         "available_inventory": [
           {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
+            "tote_id": "T36",
+            "location": "RC-41-6-5",
+            "qty": 22
           },
           {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
+            "tote_id": "T9",
+            "location": "RB-17-81-5",
             "qty": 28
+          },
+          {
+            "tote_id": "T179",
+            "location": "RD-19-15-4",
+            "qty": 24
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU59",
-        "required_qty": 15,
+        "sku_id": "SKU5",
+        "required_qty": 10,
         "available_inventory": [
           {
-            "tote_id": "T12",
-            "location": "RC-37-44-2",
-            "qty": 16
+            "tote_id": "T174",
+            "location": "RA-38-70-4",
+            "qty": 26
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 10
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
+            "tote_id": "T6",
+            "location": "RA-8-81-5",
             "qty": 29
           }
         ]
@@ -380,40 +390,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU34",
-        "required_qty": 19,
+        "sku_id": "SKU12",
+        "required_qty": 10,
         "available_inventory": [
           {
-            "tote_id": "T137",
-            "location": "RA-10-61-5",
-            "qty": 16
+            "tote_id": "T152",
+            "location": "RC-35-102-5",
+            "qty": 10
           },
           {
-            "tote_id": "T52",
-            "location": "RD-23-53-2",
-            "qty": 30
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 23
           },
           {
-            "tote_id": "T79",
-            "location": "RC-25-10-7",
-            "qty": 30
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 21
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU53",
+        "sku_id": "SKU29",
         "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T11",
-            "location": "RD-25-25-8",
-            "qty": 16
+            "tote_id": "T101",
+            "location": "RA-14-137-4",
+            "qty": 14
           },
           {
-            "tote_id": "T126",
-            "location": "RC-28-36-4",
-            "qty": 16
+            "tote_id": "T178",
+            "location": "RB-39-32-6",
+            "qty": 20
           }
         ]
       }
@@ -424,40 +434,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU48",
-        "required_qty": 10,
+        "sku_id": "SKU36",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T90",
-            "location": "RA-9-118-8",
-            "qty": 29
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 21
           },
           {
-            "tote_id": "T108",
-            "location": "RA-14-72-1",
-            "qty": 10
+            "tote_id": "T156",
+            "location": "RB-6-1-3",
+            "qty": 14
           },
           {
-            "tote_id": "T129",
-            "location": "RD-30-81-7",
-            "qty": 19
+            "tote_id": "T53",
+            "location": "RA-33-127-5",
+            "qty": 21
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU41",
-        "required_qty": 20,
+        "sku_id": "SKU2",
+        "required_qty": 14,
         "available_inventory": [
           {
-            "tote_id": "T176",
-            "location": "RA-15-63-6",
-            "qty": 12
+            "tote_id": "T59",
+            "location": "RD-18-54-7",
+            "qty": 15
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 14
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 24
           }
         ]
       }
@@ -468,35 +478,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU25",
-        "required_qty": 7,
+        "sku_id": "SKU44",
+        "required_qty": 10,
         "available_inventory": [
           {
-            "tote_id": "T141",
-            "location": "RA-27-89-2",
-            "qty": 27
+            "tote_id": "T107",
+            "location": "RD-25-97-5",
+            "qty": 30
           },
           {
-            "tote_id": "T8",
-            "location": "RA-35-151-2",
-            "qty": 12
+            "tote_id": "T15",
+            "location": "RB-30-10-6",
+            "qty": 18
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU29",
-        "required_qty": 8,
+        "sku_id": "SKU2",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 18
+            "tote_id": "T59",
+            "location": "RD-18-54-7",
+            "qty": 15
           },
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 14
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 24
           }
         ]
       }
@@ -507,35 +517,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU49",
-        "required_qty": 5,
+        "sku_id": "SKU13",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T43",
-            "location": "RA-12-169-8",
-            "qty": 11
+            "tote_id": "T161",
+            "location": "RD-21-30-4",
+            "qty": 17
           },
           {
-            "tote_id": "T155",
-            "location": "RA-34-132-1",
-            "qty": 27
+            "tote_id": "T163",
+            "location": "RA-41-11-2",
+            "qty": 18
+          },
+          {
+            "tote_id": "T135",
+            "location": "RB-8-54-5",
+            "qty": 11
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU43",
-        "required_qty": 8,
+        "sku_id": "SKU15",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T45",
-            "location": "RC-17-83-8",
-            "qty": 19
+            "tote_id": "T144",
+            "location": "RB-26-48-10",
+            "qty": 24
           },
           {
-            "tote_id": "T35",
-            "location": "RC-39-58-5",
-            "qty": 25
+            "tote_id": "T97",
+            "location": "RA-16-22-6",
+            "qty": 28
+          },
+          {
+            "tote_id": "T105",
+            "location": "RA-23-94-4",
+            "qty": 10
           }
         ]
       }
@@ -546,35 +566,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU35",
-        "required_qty": 14,
+        "sku_id": "SKU14",
+        "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
-            "qty": 12
+            "tote_id": "T127",
+            "location": "RC-35-11-5",
+            "qty": 21
           },
           {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
+            "tote_id": "T85",
+            "location": "RD-9-85-4",
+            "qty": 18
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU58",
-        "required_qty": 6,
+        "sku_id": "SKU42",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T86",
-            "location": "RB-33-12-2",
-            "qty": 22
+            "tote_id": "T124",
+            "location": "RD-41-59-9",
+            "qty": 17
           },
           {
-            "tote_id": "T166",
-            "location": "RD-22-42-3",
-            "qty": 19
+            "tote_id": "T85",
+            "location": "RD-9-85-4",
+            "qty": 21
           }
         ]
       }
@@ -585,35 +605,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU11",
-        "required_qty": 9,
+        "sku_id": "SKU15",
+        "required_qty": 5,
         "available_inventory": [
           {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 17
+            "tote_id": "T144",
+            "location": "RB-26-48-10",
+            "qty": 24
           },
           {
-            "tote_id": "T2",
-            "location": "RB-35-72-3",
+            "tote_id": "T97",
+            "location": "RA-16-22-6",
+            "qty": 28
+          },
+          {
+            "tote_id": "T105",
+            "location": "RA-23-94-4",
             "qty": 10
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU4",
-        "required_qty": 16,
+        "sku_id": "SKU24",
+        "required_qty": 20,
         "available_inventory": [
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
+            "tote_id": "T28",
+            "location": "RD-24-87-8",
+            "qty": 22
           },
           {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
+            "tote_id": "T176",
+            "location": "RA-1-93-6",
+            "qty": 28
+          },
+          {
+            "tote_id": "T50",
+            "location": "RA-17-111-4",
+            "qty": 19
           }
         ]
       }
@@ -624,40 +654,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU59",
-        "required_qty": 5,
+        "sku_id": "SKU17",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T12",
-            "location": "RC-37-44-2",
-            "qty": 16
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 27
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 10
+            "tote_id": "T116",
+            "location": "RC-35-100-6",
+            "qty": 21
           },
           {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 29
+            "tote_id": "T44",
+            "location": "RA-15-133-3",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU10",
-        "required_qty": 7,
+        "sku_id": "SKU40",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 22
+            "tote_id": "T79",
+            "location": "RC-29-97-4",
+            "qty": 11
           },
           {
-            "tote_id": "T5",
-            "location": "RB-27-76-3",
-            "qty": 14
+            "tote_id": "T31",
+            "location": "RD-28-71-1",
+            "qty": 29
           }
         ]
       }
@@ -668,40 +698,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU40",
-        "required_qty": 14,
+        "sku_id": "SKU35",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 19
-          },
-          {
-            "tote_id": "T123",
-            "location": "RA-37-84-10",
+            "tote_id": "T36",
+            "location": "RC-41-6-5",
             "qty": 22
           },
           {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
+            "tote_id": "T9",
+            "location": "RB-17-81-5",
             "qty": 28
+          },
+          {
+            "tote_id": "T179",
+            "location": "RD-19-15-4",
+            "qty": 24
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU2",
-        "required_qty": 11,
+        "sku_id": "SKU4",
+        "required_qty": 12,
         "available_inventory": [
           {
-            "tote_id": "T142",
-            "location": "RD-41-88-2",
-            "qty": 13
+            "tote_id": "T75",
+            "location": "RC-22-58-1",
+            "qty": 27
           },
           {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 22
+            "tote_id": "T68",
+            "location": "RD-31-59-8",
+            "qty": 18
           }
         ]
       }
@@ -712,35 +742,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU27",
-        "required_qty": 18,
+        "sku_id": "SKU32",
+        "required_qty": 11,
         "available_inventory": [
           {
-            "tote_id": "T19",
-            "location": "RC-21-105-2",
-            "qty": 23
+            "tote_id": "T58",
+            "location": "RA-6-129-6",
+            "qty": 12
           },
           {
-            "tote_id": "T22",
-            "location": "RA-3-23-4",
-            "qty": 23
+            "tote_id": "T98",
+            "location": "RD-35-45-8",
+            "qty": 20
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU33",
-        "required_qty": 20,
+        "sku_id": "SKU31",
+        "required_qty": 16,
         "available_inventory": [
           {
-            "tote_id": "T109",
-            "location": "RB-23-50-5",
+            "tote_id": "T101",
+            "location": "RA-14-137-4",
+            "qty": 12
+          },
+          {
+            "tote_id": "T94",
+            "location": "RC-39-5-3",
             "qty": 13
           },
           {
-            "tote_id": "T111",
-            "location": "RA-25-170-5",
-            "qty": 18
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 30
           }
         ]
       }
@@ -751,40 +786,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU44",
-        "required_qty": 8,
+        "sku_id": "SKU36",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T132",
-            "location": "RA-27-65-8",
-            "qty": 27
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 21
           },
           {
-            "tote_id": "T162",
-            "location": "RD-15-90-1",
-            "qty": 24
+            "tote_id": "T156",
+            "location": "RB-6-1-3",
+            "qty": 14
+          },
+          {
+            "tote_id": "T53",
+            "location": "RA-33-127-5",
+            "qty": 21
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU52",
-        "required_qty": 17,
+        "sku_id": "SKU25",
+        "required_qty": 20,
         "available_inventory": [
           {
+            "tote_id": "T74",
+            "location": "RA-41-131-5",
+            "qty": 12
+          },
+          {
             "tote_id": "T164",
-            "location": "RC-10-98-2",
-            "qty": 25
-          },
-          {
-            "tote_id": "T161",
-            "location": "RA-10-17-1",
-            "qty": 20
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 27
+            "location": "RA-9-16-7",
+            "qty": 18
           }
         ]
       }
@@ -795,35 +830,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU4",
-        "required_qty": 6,
+        "sku_id": "SKU30",
+        "required_qty": 19,
         "available_inventory": [
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
+            "tote_id": "T139",
+            "location": "RC-30-9-1",
+            "qty": 12
           },
           {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
+            "tote_id": "T157",
+            "location": "RB-34-80-8",
+            "qty": 19
+          },
+          {
+            "tote_id": "T92",
+            "location": "RA-8-66-4",
+            "qty": 13
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU49",
-        "required_qty": 10,
+        "sku_id": "SKU38",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T43",
-            "location": "RA-12-169-8",
-            "qty": 11
+            "tote_id": "T68",
+            "location": "RD-31-59-8",
+            "qty": 14
           },
           {
-            "tote_id": "T155",
-            "location": "RA-34-132-1",
-            "qty": 27
+            "tote_id": "T35",
+            "location": "RD-41-7-5",
+            "qty": 12
           }
         ]
       }
@@ -834,40 +874,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU52",
-        "required_qty": 20,
+        "sku_id": "SKU31",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T164",
-            "location": "RC-10-98-2",
-            "qty": 25
+            "tote_id": "T101",
+            "location": "RA-14-137-4",
+            "qty": 12
           },
           {
-            "tote_id": "T161",
-            "location": "RA-10-17-1",
-            "qty": 20
+            "tote_id": "T94",
+            "location": "RC-39-5-3",
+            "qty": 13
           },
           {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 27
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU41",
-        "required_qty": 8,
+        "sku_id": "SKU14",
+        "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T176",
-            "location": "RA-15-63-6",
-            "qty": 12
+            "tote_id": "T127",
+            "location": "RC-35-11-5",
+            "qty": 21
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 14
+            "tote_id": "T85",
+            "location": "RD-9-85-4",
+            "qty": 18
           }
         ]
       }
@@ -878,40 +918,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU49",
-        "required_qty": 7,
+        "sku_id": "SKU17",
+        "required_qty": 19,
         "available_inventory": [
           {
-            "tote_id": "T43",
-            "location": "RA-12-169-8",
-            "qty": 11
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 27
           },
           {
-            "tote_id": "T155",
-            "location": "RA-34-132-1",
-            "qty": 27
+            "tote_id": "T116",
+            "location": "RC-35-100-6",
+            "qty": 21
+          },
+          {
+            "tote_id": "T44",
+            "location": "RA-15-133-3",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU23",
-        "required_qty": 19,
+        "sku_id": "SKU37",
+        "required_qty": 14,
         "available_inventory": [
           {
-            "tote_id": "T81",
-            "location": "RC-14-51-6",
-            "qty": 25
+            "tote_id": "T148",
+            "location": "RC-10-36-4",
+            "qty": 16
           },
           {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 21
+            "tote_id": "T23",
+            "location": "RC-36-67-7",
+            "qty": 17
           },
           {
-            "tote_id": "T146",
-            "location": "RC-21-12-1",
-            "qty": 26
+            "tote_id": "T123",
+            "location": "RD-5-91-10",
+            "qty": 11
           }
         ]
       }
@@ -922,40 +967,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU49",
+        "sku_id": "SKU48",
         "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T43",
-            "location": "RA-12-169-8",
-            "qty": 11
+            "tote_id": "T57",
+            "location": "RA-40-133-8",
+            "qty": 26
           },
           {
-            "tote_id": "T155",
-            "location": "RA-34-132-1",
-            "qty": 27
+            "tote_id": "T159",
+            "location": "RA-20-117-3",
+            "qty": 15
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU21",
-        "required_qty": 20,
+        "sku_id": "SKU25",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T122",
-            "location": "RC-14-15-9",
-            "qty": 30
+            "tote_id": "T74",
+            "location": "RA-41-131-5",
+            "qty": 12
           },
           {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 20
-          },
-          {
-            "tote_id": "T119",
-            "location": "RA-19-117-6",
-            "qty": 25
+            "tote_id": "T164",
+            "location": "RA-9-16-7",
+            "qty": 18
           }
         ]
       }
@@ -966,40 +1006,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU35",
-        "required_qty": 7,
+        "sku_id": "SKU12",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
-            "qty": 12
+            "tote_id": "T152",
+            "location": "RC-35-102-5",
+            "qty": 10
           },
           {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 23
+          },
+          {
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 21
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU59",
-        "required_qty": 9,
+        "sku_id": "SKU56",
+        "required_qty": 16,
         "available_inventory": [
           {
-            "tote_id": "T12",
-            "location": "RC-37-44-2",
-            "qty": 16
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 25
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 10
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 29
+            "tote_id": "T99",
+            "location": "RA-29-156-4",
+            "qty": 28
           }
         ]
       }
@@ -1010,40 +1050,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU9",
-        "required_qty": 5,
+        "sku_id": "SKU18",
+        "required_qty": 11,
         "available_inventory": [
           {
-            "tote_id": "T13",
-            "location": "RB-32-18-9",
-            "qty": 16
+            "tote_id": "T123",
+            "location": "RD-5-91-10",
+            "qty": 21
           },
           {
-            "tote_id": "T4",
-            "location": "RA-35-87-4",
-            "qty": 28
+            "tote_id": "T126",
+            "location": "RC-30-35-10",
+            "qty": 15
+          },
+          {
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 10
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU34",
-        "required_qty": 5,
+        "sku_id": "SKU2",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T137",
-            "location": "RA-10-61-5",
-            "qty": 16
+            "tote_id": "T59",
+            "location": "RD-18-54-7",
+            "qty": 15
           },
           {
-            "tote_id": "T52",
-            "location": "RD-23-53-2",
-            "qty": 30
-          },
-          {
-            "tote_id": "T79",
-            "location": "RC-25-10-7",
-            "qty": 30
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 24
           }
         ]
       }
@@ -1054,40 +1094,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU35",
-        "required_qty": 5,
+        "sku_id": "SKU19",
+        "required_qty": 9,
         "available_inventory": [
           {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
-            "qty": 12
+            "tote_id": "T104",
+            "location": "RD-3-80-2",
+            "qty": 13
           },
           {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 10
+          },
+          {
+            "tote_id": "T151",
+            "location": "RD-11-31-6",
+            "qty": 25
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU39",
-        "required_qty": 14,
+        "sku_id": "SKU11",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T8",
-            "location": "RA-35-151-2",
-            "qty": 10
+            "tote_id": "T160",
+            "location": "RC-38-86-2",
+            "qty": 11
           },
           {
-            "tote_id": "T29",
-            "location": "RA-22-118-1",
-            "qty": 20
+            "tote_id": "T60",
+            "location": "RC-26-4-10",
+            "qty": 16
           },
           {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 23
+            "tote_id": "T163",
+            "location": "RA-41-11-2",
+            "qty": 14
           }
         ]
       }
@@ -1098,39 +1143,34 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU15",
-        "required_qty": 18,
+        "sku_id": "SKU6",
+        "required_qty": 19,
         "available_inventory": [
           {
-            "tote_id": "T174",
-            "location": "RC-24-81-4",
-            "qty": 26
+            "tote_id": "T152",
+            "location": "RC-35-102-5",
+            "qty": 30
           },
           {
-            "tote_id": "T139",
-            "location": "RA-32-92-8",
-            "qty": 26
-          },
-          {
-            "tote_id": "T77",
-            "location": "RC-4-2-9",
-            "qty": 27
+            "tote_id": "T159",
+            "location": "RA-20-117-3",
+            "qty": 23
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU3",
-        "required_qty": 9,
+        "sku_id": "SKU60",
+        "required_qty": 14,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 21
+            "tote_id": "T70",
+            "location": "RD-41-28-6",
+            "qty": 15
           },
           {
-            "tote_id": "T94",
-            "location": "RA-5-81-6",
+            "tote_id": "T126",
+            "location": "RC-30-35-10",
             "qty": 13
           }
         ]
@@ -1142,40 +1182,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU24",
-        "required_qty": 13,
+        "sku_id": "SKU6",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
+            "tote_id": "T152",
+            "location": "RC-35-102-5",
+            "qty": 30
           },
           {
-            "tote_id": "T164",
-            "location": "RC-10-98-2",
-            "qty": 25
-          },
-          {
-            "tote_id": "T87",
-            "location": "RC-8-110-2",
-            "qty": 26
+            "tote_id": "T159",
+            "location": "RA-20-117-3",
+            "qty": 23
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU27",
-        "required_qty": 10,
+        "sku_id": "SKU10",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T19",
-            "location": "RC-21-105-2",
-            "qty": 23
+            "tote_id": "T65",
+            "location": "RC-38-44-10",
+            "qty": 19
           },
           {
-            "tote_id": "T22",
-            "location": "RA-3-23-4",
-            "qty": 23
+            "tote_id": "T129",
+            "location": "RD-31-45-9",
+            "qty": 27
+          },
+          {
+            "tote_id": "T74",
+            "location": "RA-41-131-5",
+            "qty": 15
           }
         ]
       }
@@ -1186,40 +1226,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 19,
+        "sku_id": "SKU1",
+        "required_qty": 10,
         "available_inventory": [
           {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
+            "tote_id": "T136",
+            "location": "RC-12-4-10",
+            "qty": 13
           },
           {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
-            "qty": 26
+            "tote_id": "T177",
+            "location": "RA-35-170-6",
+            "qty": 11
           },
           {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
+            "tote_id": "T162",
+            "location": "RC-21-2-8",
+            "qty": 25
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU26",
-        "required_qty": 8,
+        "sku_id": "SKU28",
+        "required_qty": 9,
         "available_inventory": [
           {
-            "tote_id": "T140",
-            "location": "RD-35-90-1",
-            "qty": 23
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 10
           },
           {
-            "tote_id": "T80",
-            "location": "RC-35-67-8",
-            "qty": 17
+            "tote_id": "T128",
+            "location": "RD-34-46-5",
+            "qty": 16
+          },
+          {
+            "tote_id": "T91",
+            "location": "RA-10-132-8",
+            "qty": 23
           }
         ]
       }
@@ -1230,40 +1275,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU42",
-        "required_qty": 12,
+        "sku_id": "SKU46",
+        "required_qty": 8,
         "available_inventory": [
           {
-            "tote_id": "T171",
-            "location": "RA-1-30-4",
-            "qty": 24
+            "tote_id": "T7",
+            "location": "RA-17-110-5",
+            "qty": 12
           },
           {
-            "tote_id": "T130",
-            "location": "RA-9-96-2",
-            "qty": 21
-          },
-          {
-            "tote_id": "T46",
-            "location": "RB-4-57-10",
-            "qty": 19
+            "tote_id": "T137",
+            "location": "RD-26-36-4",
+            "qty": 14
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU11",
-        "required_qty": 15,
+        "sku_id": "SKU58",
+        "required_qty": 12,
         "available_inventory": [
           {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 17
+            "tote_id": "T59",
+            "location": "RD-18-54-7",
+            "qty": 29
           },
           {
-            "tote_id": "T2",
-            "location": "RB-35-72-3",
-            "qty": 10
+            "tote_id": "T46",
+            "location": "RA-39-127-5",
+            "qty": 14
+          },
+          {
+            "tote_id": "T110",
+            "location": "RC-39-37-9",
+            "qty": 17
           }
         ]
       }
@@ -1274,40 +1319,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU51",
-        "required_qty": 5,
+        "sku_id": "SKU25",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 23
+            "tote_id": "T74",
+            "location": "RA-41-131-5",
+            "qty": 12
           },
           {
-            "tote_id": "T83",
-            "location": "RB-40-83-4",
-            "qty": 20
-          },
-          {
-            "tote_id": "T86",
-            "location": "RB-33-12-2",
-            "qty": 13
+            "tote_id": "T164",
+            "location": "RA-9-16-7",
+            "qty": 18
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU54",
-        "required_qty": 7,
+        "sku_id": "SKU23",
+        "required_qty": 20,
         "available_inventory": [
           {
-            "tote_id": "T82",
-            "location": "RB-22-37-10",
-            "qty": 14
+            "tote_id": "T37",
+            "location": "RA-21-66-3",
+            "qty": 23
           },
           {
-            "tote_id": "T113",
-            "location": "RA-37-83-4",
-            "qty": 11
+            "tote_id": "T173",
+            "location": "RA-40-65-4",
+            "qty": 25
+          },
+          {
+            "tote_id": "T107",
+            "location": "RD-25-97-5",
+            "qty": 23
           }
         ]
       }
@@ -1318,35 +1363,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU41",
-        "required_qty": 15,
+        "sku_id": "SKU33",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T176",
-            "location": "RA-15-63-6",
-            "qty": 12
+            "tote_id": "T105",
+            "location": "RA-23-94-4",
+            "qty": 26
           },
           {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 14
+            "tote_id": "T128",
+            "location": "RD-34-46-5",
+            "qty": 23
+          },
+          {
+            "tote_id": "T29",
+            "location": "RD-8-83-4",
+            "qty": 13
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU26",
-        "required_qty": 6,
+        "sku_id": "SKU55",
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T140",
-            "location": "RD-35-90-1",
-            "qty": 23
+            "tote_id": "T20",
+            "location": "RA-18-93-5",
+            "qty": 24
           },
           {
-            "tote_id": "T80",
-            "location": "RC-35-67-8",
-            "qty": 17
+            "tote_id": "T156",
+            "location": "RB-6-1-3",
+            "qty": 19
           }
         ]
       }
@@ -1357,40 +1407,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU6",
-        "required_qty": 11,
+        "sku_id": "SKU35",
+        "required_qty": 18,
         "available_inventory": [
           {
-            "tote_id": "T29",
-            "location": "RA-22-118-1",
-            "qty": 17
+            "tote_id": "T36",
+            "location": "RC-41-6-5",
+            "qty": 22
           },
           {
             "tote_id": "T9",
-            "location": "RA-9-171-10",
-            "qty": 26
+            "location": "RB-17-81-5",
+            "qty": 28
           },
           {
-            "tote_id": "T100",
-            "location": "RA-25-146-5",
-            "qty": 16
+            "tote_id": "T179",
+            "location": "RD-19-15-4",
+            "qty": 24
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU4",
-        "required_qty": 16,
+        "sku_id": "SKU43",
+        "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
+            "tote_id": "T5",
+            "location": "RC-1-70-6",
+            "qty": 16
           },
           {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
+            "tote_id": "T180",
+            "location": "RA-15-73-8",
+            "qty": 28
+          },
+          {
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 30
           }
         ]
       }
@@ -1401,35 +1456,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU4",
-        "required_qty": 15,
+        "sku_id": "SKU11",
+        "required_qty": 6,
         "available_inventory": [
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
+            "tote_id": "T160",
+            "location": "RC-38-86-2",
+            "qty": 11
           },
           {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
+            "tote_id": "T60",
+            "location": "RC-26-4-10",
+            "qty": 16
+          },
+          {
+            "tote_id": "T163",
+            "location": "RA-41-11-2",
             "qty": 14
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU36",
-        "required_qty": 9,
+        "sku_id": "SKU12",
+        "required_qty": 8,
         "available_inventory": [
           {
-            "tote_id": "T2",
-            "location": "RB-35-72-3",
-            "qty": 21
+            "tote_id": "T152",
+            "location": "RC-35-102-5",
+            "qty": 10
           },
           {
-            "tote_id": "T114",
-            "location": "RB-22-37-2",
-            "qty": 13
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 23
+          },
+          {
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 21
           }
         ]
       }
@@ -1440,45 +1505,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU46",
-        "required_qty": 18,
+        "sku_id": "SKU43",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T60",
-            "location": "RB-41-30-2",
-            "qty": 12
+            "tote_id": "T5",
+            "location": "RC-1-70-6",
+            "qty": 16
           },
           {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 24
+            "tote_id": "T180",
+            "location": "RA-15-73-8",
+            "qty": 28
           },
           {
-            "tote_id": "T63",
-            "location": "RA-5-37-1",
-            "qty": 21
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU21",
-        "required_qty": 10,
+        "sku_id": "SKU50",
+        "required_qty": 11,
         "available_inventory": [
           {
-            "tote_id": "T122",
-            "location": "RC-14-15-9",
-            "qty": 30
-          },
-          {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 20
+            "tote_id": "T113",
+            "location": "RA-8-56-2",
+            "qty": 11
           },
           {
             "tote_id": "T119",
-            "location": "RA-19-117-6",
-            "qty": 25
+            "location": "RB-20-24-4",
+            "qty": 26
           }
         ]
       }
@@ -1489,40 +1549,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU19",
-        "required_qty": 5,
+        "sku_id": "SKU37",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T174",
-            "location": "RC-24-81-4",
-            "qty": 29
+            "tote_id": "T148",
+            "location": "RC-10-36-4",
+            "qty": 16
           },
           {
-            "tote_id": "T167",
-            "location": "RC-25-53-7",
-            "qty": 22
+            "tote_id": "T23",
+            "location": "RC-36-67-7",
+            "qty": 17
+          },
+          {
+            "tote_id": "T123",
+            "location": "RD-5-91-10",
+            "qty": 11
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU24",
-        "required_qty": 9,
+        "sku_id": "SKU57",
+        "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
+            "tote_id": "T123",
+            "location": "RD-5-91-10",
+            "qty": 30
+          },
+          {
+            "tote_id": "T8",
+            "location": "RD-12-35-4",
+            "qty": 16
+          },
+          {
+            "tote_id": "T40",
+            "location": "RA-6-98-2",
             "qty": 18
-          },
-          {
-            "tote_id": "T164",
-            "location": "RC-10-98-2",
-            "qty": 25
-          },
-          {
-            "tote_id": "T87",
-            "location": "RC-8-110-2",
-            "qty": 26
           }
         ]
       }
@@ -1533,35 +1598,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU58",
+        "sku_id": "SKU5",
         "required_qty": 16,
         "available_inventory": [
           {
-            "tote_id": "T86",
-            "location": "RB-33-12-2",
-            "qty": 22
+            "tote_id": "T174",
+            "location": "RA-38-70-4",
+            "qty": 26
           },
           {
-            "tote_id": "T166",
-            "location": "RD-22-42-3",
-            "qty": 19
+            "tote_id": "T6",
+            "location": "RA-8-81-5",
+            "qty": 29
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU32",
-        "required_qty": 8,
+        "sku_id": "SKU7",
+        "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 28
+            "tote_id": "T24",
+            "location": "RA-38-171-9",
+            "qty": 27
           },
           {
-            "tote_id": "T165",
-            "location": "RC-33-100-3",
-            "qty": 27
+            "tote_id": "T58",
+            "location": "RA-6-129-6",
+            "qty": 23
+          },
+          {
+            "tote_id": "T108",
+            "location": "RC-18-89-6",
+            "qty": 14
           }
         ]
       }
@@ -1572,45 +1642,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU34",
+        "sku_id": "SKU38",
         "required_qty": 12,
         "available_inventory": [
           {
-            "tote_id": "T137",
-            "location": "RA-10-61-5",
-            "qty": 16
+            "tote_id": "T68",
+            "location": "RD-31-59-8",
+            "qty": 14
           },
           {
-            "tote_id": "T52",
-            "location": "RD-23-53-2",
-            "qty": 30
-          },
-          {
-            "tote_id": "T79",
-            "location": "RC-25-10-7",
-            "qty": 30
+            "tote_id": "T35",
+            "location": "RD-41-7-5",
+            "qty": 12
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU21",
+        "sku_id": "SKU22",
         "required_qty": 12,
         "available_inventory": [
           {
-            "tote_id": "T122",
-            "location": "RC-14-15-9",
-            "qty": 30
+            "tote_id": "T96",
+            "location": "RB-1-48-7",
+            "qty": 27
           },
           {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 20
+            "tote_id": "T102",
+            "location": "RB-24-79-10",
+            "qty": 11
           },
           {
-            "tote_id": "T119",
-            "location": "RA-19-117-6",
-            "qty": 25
+            "tote_id": "T109",
+            "location": "RC-9-42-2",
+            "qty": 17
           }
         ]
       }
@@ -1621,35 +1686,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU18",
-        "required_qty": 11,
+        "sku_id": "SKU49",
+        "required_qty": 8,
         "available_inventory": [
           {
-            "tote_id": "T112",
-            "location": "RA-13-56-10",
-            "qty": 28
+            "tote_id": "T139",
+            "location": "RC-30-9-1",
+            "qty": 10
           },
           {
-            "tote_id": "T69",
-            "location": "RA-35-20-8",
-            "qty": 15
+            "tote_id": "T154",
+            "location": "RA-20-173-10",
+            "qty": 28
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU22",
-        "required_qty": 15,
+        "sku_id": "SKU58",
+        "required_qty": 12,
         "available_inventory": [
           {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
+            "tote_id": "T59",
+            "location": "RD-18-54-7",
+            "qty": 29
+          },
+          {
+            "tote_id": "T46",
+            "location": "RA-39-127-5",
             "qty": 14
           },
           {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 24
+            "tote_id": "T110",
+            "location": "RC-39-37-9",
+            "qty": 17
           }
         ]
       }
@@ -1660,40 +1730,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU40",
-        "required_qty": 20,
+        "sku_id": "SKU21",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 19
-          },
-          {
-            "tote_id": "T123",
-            "location": "RA-37-84-10",
-            "qty": 22
-          },
-          {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
+            "tote_id": "T9",
+            "location": "RB-17-81-5",
             "qty": 28
+          },
+          {
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 27
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU3",
-        "required_qty": 11,
+        "sku_id": "SKU56",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 21
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 25
           },
           {
-            "tote_id": "T94",
-            "location": "RA-5-81-6",
-            "qty": 13
+            "tote_id": "T99",
+            "location": "RA-29-156-4",
+            "qty": 28
           }
         ]
       }
@@ -1704,45 +1769,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU14",
-        "required_qty": 13,
+        "sku_id": "SKU43",
+        "required_qty": 18,
         "available_inventory": [
           {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
-            "qty": 22
+            "tote_id": "T5",
+            "location": "RC-1-70-6",
+            "qty": 16
           },
           {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
+            "tote_id": "T180",
+            "location": "RA-15-73-8",
+            "qty": 28
           },
           {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU1",
-        "required_qty": 15,
+        "sku_id": "SKU60",
+        "required_qty": 16,
         "available_inventory": [
           {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
+            "tote_id": "T70",
+            "location": "RD-41-28-6",
+            "qty": 15
           },
           {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
+            "tote_id": "T126",
+            "location": "RC-30-35-10",
             "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
           }
         ]
       }
@@ -1753,45 +1813,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 6,
+        "sku_id": "SKU11",
+        "required_qty": 16,
         "available_inventory": [
           {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
+            "tote_id": "T160",
+            "location": "RC-38-86-2",
+            "qty": 11
           },
           {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
-            "qty": 26
+            "tote_id": "T60",
+            "location": "RC-26-4-10",
+            "qty": 16
           },
           {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
+            "tote_id": "T163",
+            "location": "RA-41-11-2",
+            "qty": 14
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU31",
-        "required_qty": 12,
+        "sku_id": "SKU14",
+        "required_qty": 20,
         "available_inventory": [
           {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 16
+            "tote_id": "T127",
+            "location": "RC-35-11-5",
+            "qty": 21
           },
           {
-            "tote_id": "T107",
-            "location": "RA-35-148-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T150",
-            "location": "RD-23-41-5",
-            "qty": 16
+            "tote_id": "T85",
+            "location": "RD-9-85-4",
+            "qty": 18
           }
         ]
       }
@@ -1802,35 +1857,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU35",
-        "required_qty": 17,
+        "sku_id": "SKU30",
+        "required_qty": 9,
         "available_inventory": [
           {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
+            "tote_id": "T139",
+            "location": "RC-30-9-1",
             "qty": 12
           },
           {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
+            "tote_id": "T157",
+            "location": "RB-34-80-8",
+            "qty": 19
+          },
+          {
+            "tote_id": "T92",
+            "location": "RA-8-66-4",
+            "qty": 13
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU10",
-        "required_qty": 14,
+        "sku_id": "SKU43",
+        "required_qty": 9,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 22
+            "tote_id": "T5",
+            "location": "RC-1-70-6",
+            "qty": 16
           },
           {
-            "tote_id": "T5",
-            "location": "RB-27-76-3",
-            "qty": 14
+            "tote_id": "T180",
+            "location": "RA-15-73-8",
+            "qty": 28
+          },
+          {
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 30
           }
         ]
       }
@@ -1841,35 +1906,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU22",
-        "required_qty": 19,
+        "sku_id": "SKU8",
+        "required_qty": 5,
         "available_inventory": [
           {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
+            "tote_id": "T137",
+            "location": "RD-26-36-4",
             "qty": 14
           },
           {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 24
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 10
+          },
+          {
+            "tote_id": "T104",
+            "location": "RD-3-80-2",
+            "qty": 22
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU10",
+        "sku_id": "SKU32",
         "required_qty": 19,
         "available_inventory": [
           {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 22
+            "tote_id": "T58",
+            "location": "RA-6-129-6",
+            "qty": 12
           },
           {
-            "tote_id": "T5",
-            "location": "RB-27-76-3",
-            "qty": 14
+            "tote_id": "T98",
+            "location": "RD-35-45-8",
+            "qty": 20
           }
         ]
       }
@@ -1880,45 +1950,35 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU55",
-        "required_qty": 9,
+        "sku_id": "SKU29",
+        "required_qty": 7,
         "available_inventory": [
           {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 25
+            "tote_id": "T101",
+            "location": "RA-14-137-4",
+            "qty": 14
           },
           {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 11
-          },
-          {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
-            "qty": 29
+            "tote_id": "T178",
+            "location": "RB-39-32-6",
+            "qty": 20
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU12",
-        "required_qty": 9,
+        "sku_id": "SKU4",
+        "required_qty": 15,
         "available_inventory": [
           {
-            "tote_id": "T87",
-            "location": "RC-8-110-2",
-            "qty": 24
+            "tote_id": "T75",
+            "location": "RC-22-58-1",
+            "qty": 27
           },
           {
-            "tote_id": "T73",
-            "location": "RD-7-71-2",
-            "qty": 22
-          },
-          {
-            "tote_id": "T71",
-            "location": "RD-12-95-5",
-            "qty": 15
+            "tote_id": "T68",
+            "location": "RD-31-59-8",
+            "qty": 18
           }
         ]
       }
@@ -1929,40 +1989,45 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU25",
-        "required_qty": 10,
+        "sku_id": "SKU43",
+        "required_qty": 5,
         "available_inventory": [
           {
-            "tote_id": "T141",
-            "location": "RA-27-89-2",
-            "qty": 27
+            "tote_id": "T5",
+            "location": "RC-1-70-6",
+            "qty": 16
           },
           {
-            "tote_id": "T8",
-            "location": "RA-35-151-2",
-            "qty": 12
+            "tote_id": "T180",
+            "location": "RA-15-73-8",
+            "qty": 28
+          },
+          {
+            "tote_id": "T149",
+            "location": "RA-36-51-5",
+            "qty": 30
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU14",
+        "sku_id": "SKU20",
         "required_qty": 20,
         "available_inventory": [
           {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
-            "qty": 22
+            "tote_id": "T57",
+            "location": "RA-40-133-8",
+            "qty": 26
           },
           {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
+            "tote_id": "T18",
+            "location": "RB-18-79-9",
+            "qty": 18
           },
           {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
+            "tote_id": "T144",
+            "location": "RB-26-48-10",
+            "qty": 30
           }
         ]
       }
@@ -1973,40 +2038,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU6",
-        "required_qty": 9,
+        "sku_id": "SKU34",
+        "required_qty": 19,
         "available_inventory": [
           {
-            "tote_id": "T29",
-            "location": "RA-22-118-1",
-            "qty": 17
+            "tote_id": "T174",
+            "location": "RA-38-70-4",
+            "qty": 24
           },
           {
-            "tote_id": "T9",
-            "location": "RA-9-171-10",
-            "qty": 26
-          },
-          {
-            "tote_id": "T100",
-            "location": "RA-25-146-5",
-            "qty": 16
+            "tote_id": "T51",
+            "location": "RA-22-24-7",
+            "qty": 10
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU26",
-        "required_qty": 5,
+        "sku_id": "SKU30",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T140",
-            "location": "RD-35-90-1",
-            "qty": 23
+            "tote_id": "T139",
+            "location": "RC-30-9-1",
+            "qty": 12
           },
           {
-            "tote_id": "T80",
-            "location": "RC-35-67-8",
-            "qty": 17
+            "tote_id": "T157",
+            "location": "RB-34-80-8",
+            "qty": 19
+          },
+          {
+            "tote_id": "T92",
+            "location": "RA-8-66-4",
+            "qty": 13
           }
         ]
       }
@@ -2017,45 +2082,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU31",
-        "required_qty": 14,
+        "sku_id": "SKU14",
+        "required_qty": 17,
         "available_inventory": [
           {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 16
+            "tote_id": "T127",
+            "location": "RC-35-11-5",
+            "qty": 21
           },
           {
-            "tote_id": "T107",
-            "location": "RA-35-148-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T150",
-            "location": "RD-23-41-5",
-            "qty": 16
+            "tote_id": "T85",
+            "location": "RD-9-85-4",
+            "qty": 18
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU40",
-        "required_qty": 11,
+        "sku_id": "SKU12",
+        "required_qty": 9,
         "available_inventory": [
           {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 19
+            "tote_id": "T152",
+            "location": "RC-35-102-5",
+            "qty": 10
           },
           {
-            "tote_id": "T123",
-            "location": "RA-37-84-10",
-            "qty": 22
+            "tote_id": "T34",
+            "location": "RA-9-123-8",
+            "qty": 23
           },
           {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
-            "qty": 28
+            "tote_id": "T100",
+            "location": "RA-28-49-4",
+            "qty": 21
           }
         ]
       }
@@ -2066,35 +2126,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU4",
-        "required_qty": 20,
+        "sku_id": "SKU37",
+        "required_qty": 18,
         "available_inventory": [
           {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
+            "tote_id": "T148",
+            "location": "RC-10-36-4",
+            "qty": 16
           },
           {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
+            "tote_id": "T23",
+            "location": "RC-36-67-7",
+            "qty": 17
+          },
+          {
+            "tote_id": "T123",
+            "location": "RD-5-91-10",
+            "qty": 11
           }
         ]
       },
       {
         "line_id": "L2",
-        "sku_id": "SKU13",
+        "sku_id": "SKU40",
         "required_qty": 14,
         "available_inventory": [
           {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
+            "tote_id": "T79",
+            "location": "RC-29-97-4",
+            "qty": 11
           },
           {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 28
+            "tote_id": "T31",
+            "location": "RD-28-71-1",
+            "qty": 29
           }
         ]
       }
@@ -2105,2240 +2170,40 @@
     "details": [
       {
         "line_id": "L1",
-        "sku_id": "SKU44",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T132",
-            "location": "RA-27-65-8",
-            "qty": 27
-          },
-          {
-            "tote_id": "T162",
-            "location": "RD-15-90-1",
-            "qty": 24
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU31",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 16
-          },
-          {
-            "tote_id": "T107",
-            "location": "RA-35-148-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T150",
-            "location": "RD-23-41-5",
-            "qty": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O51",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU12",
-        "required_qty": 7,
-        "available_inventory": [
-          {
-            "tote_id": "T87",
-            "location": "RC-8-110-2",
-            "qty": 24
-          },
-          {
-            "tote_id": "T73",
-            "location": "RD-7-71-2",
-            "qty": 22
-          },
-          {
-            "tote_id": "T71",
-            "location": "RD-12-95-5",
-            "qty": 15
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU23",
-        "required_qty": 5,
-        "available_inventory": [
-          {
-            "tote_id": "T81",
-            "location": "RC-14-51-6",
-            "qty": 25
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 21
-          },
-          {
-            "tote_id": "T146",
-            "location": "RC-21-12-1",
-            "qty": 26
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O52",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU38",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T40",
-            "location": "RA-35-79-1",
-            "qty": 24
-          },
-          {
-            "tote_id": "T114",
-            "location": "RB-22-37-2",
-            "qty": 16
-          },
-          {
-            "tote_id": "T103",
-            "location": "RA-27-144-1",
-            "qty": 10
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU52",
-        "required_qty": 5,
-        "available_inventory": [
-          {
-            "tote_id": "T164",
-            "location": "RC-10-98-2",
-            "qty": 25
-          },
-          {
-            "tote_id": "T161",
-            "location": "RA-10-17-1",
-            "qty": 20
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 27
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O53",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 6,
-        "available_inventory": [
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
-          },
-          {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
-            "qty": 26
-          },
-          {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU48",
-        "required_qty": 16,
-        "available_inventory": [
-          {
-            "tote_id": "T90",
-            "location": "RA-9-118-8",
-            "qty": 29
-          },
-          {
-            "tote_id": "T108",
-            "location": "RA-14-72-1",
-            "qty": 10
-          },
-          {
-            "tote_id": "T129",
-            "location": "RD-30-81-7",
-            "qty": 19
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O54",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU20",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T90",
-            "location": "RA-9-118-8",
-            "qty": 16
-          },
-          {
-            "tote_id": "T73",
-            "location": "RD-7-71-2",
-            "qty": 11
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
         "sku_id": "SKU7",
-        "required_qty": 11,
+        "required_qty": 13,
         "available_inventory": [
           {
-            "tote_id": "T22",
-            "location": "RA-3-23-4",
-            "qty": 24
+            "tote_id": "T24",
+            "location": "RA-38-171-9",
+            "qty": 27
           },
           {
-            "tote_id": "T109",
-            "location": "RB-23-50-5",
-            "qty": 11
-          },
-          {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 14
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O55",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU51",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
+            "tote_id": "T58",
+            "location": "RA-6-129-6",
             "qty": 23
           },
           {
-            "tote_id": "T83",
-            "location": "RB-40-83-4",
-            "qty": 20
-          },
-          {
-            "tote_id": "T86",
-            "location": "RB-33-12-2",
-            "qty": 13
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU54",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T82",
-            "location": "RB-22-37-10",
+            "tote_id": "T108",
+            "location": "RC-18-89-6",
             "qty": 14
-          },
-          {
-            "tote_id": "T113",
-            "location": "RA-37-83-4",
-            "qty": 11
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O56",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU40",
-        "required_qty": 17,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 19
-          },
-          {
-            "tote_id": "T123",
-            "location": "RA-37-84-10",
-            "qty": 22
-          },
-          {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
-            "qty": 28
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU1",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O57",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
-          },
-          {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
-            "qty": 26
-          },
-          {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU1",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O58",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU14",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
-            "qty": 22
-          },
-          {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU18",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T112",
-            "location": "RA-13-56-10",
-            "qty": 28
-          },
-          {
-            "tote_id": "T69",
-            "location": "RA-35-20-8",
-            "qty": 15
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O59",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU29",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 18
-          },
-          {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 14
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU32",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 28
-          },
-          {
-            "tote_id": "T165",
-            "location": "RC-33-100-3",
-            "qty": 27
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O60",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU13",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
-          },
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 28
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU53",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T11",
-            "location": "RD-25-25-8",
-            "qty": 16
-          },
-          {
-            "tote_id": "T126",
-            "location": "RC-28-36-4",
-            "qty": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O61",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU23",
-        "required_qty": 5,
-        "available_inventory": [
-          {
-            "tote_id": "T81",
-            "location": "RC-14-51-6",
-            "qty": 25
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 21
-          },
-          {
-            "tote_id": "T146",
-            "location": "RC-21-12-1",
-            "qty": 26
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU57",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T33",
-            "location": "RB-19-71-9",
-            "qty": 18
-          },
-          {
-            "tote_id": "T174",
-            "location": "RC-24-81-4",
-            "qty": 30
-          },
-          {
-            "tote_id": "T101",
-            "location": "RA-41-107-7",
-            "qty": 27
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O62",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU40",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 19
-          },
-          {
-            "tote_id": "T123",
-            "location": "RA-37-84-10",
-            "qty": 22
-          },
-          {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
-            "qty": 28
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU43",
-        "required_qty": 14,
-        "available_inventory": [
-          {
-            "tote_id": "T45",
-            "location": "RC-17-83-8",
-            "qty": 19
-          },
-          {
-            "tote_id": "T35",
-            "location": "RC-39-58-5",
-            "qty": 25
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O63",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU55",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 25
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 11
-          },
-          {
-            "tote_id": "T44",
-            "location": "RB-19-18-6",
-            "qty": 29
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU53",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T11",
-            "location": "RD-25-25-8",
-            "qty": 16
-          },
-          {
-            "tote_id": "T126",
-            "location": "RC-28-36-4",
-            "qty": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O64",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU13",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
-          },
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 28
           }
         ]
       },
       {
         "line_id": "L2",
         "sku_id": "SKU59",
-        "required_qty": 14,
-        "available_inventory": [
-          {
-            "tote_id": "T12",
-            "location": "RC-37-44-2",
-            "qty": 16
-          },
-          {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 10
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 29
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O65",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
-          },
-          {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
-            "qty": 26
-          },
-          {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU57",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T33",
-            "location": "RB-19-71-9",
-            "qty": 18
-          },
-          {
-            "tote_id": "T174",
-            "location": "RC-24-81-4",
-            "qty": 30
-          },
-          {
-            "tote_id": "T101",
-            "location": "RA-41-107-7",
-            "qty": 27
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O66",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU11",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 17
-          },
-          {
-            "tote_id": "T2",
-            "location": "RB-35-72-3",
-            "qty": 10
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU57",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T33",
-            "location": "RB-19-71-9",
-            "qty": 18
-          },
-          {
-            "tote_id": "T174",
-            "location": "RC-24-81-4",
-            "qty": 30
-          },
-          {
-            "tote_id": "T101",
-            "location": "RA-41-107-7",
-            "qty": 27
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O67",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU29",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 18
-          },
-          {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 14
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU28",
-        "required_qty": 17,
-        "available_inventory": [
-          {
-            "tote_id": "T143",
-            "location": "RD-33-24-5",
-            "qty": 17
-          },
-          {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 27
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O68",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU29",
-        "required_qty": 13,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 18
-          },
-          {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 14
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU35",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
-            "qty": 12
-          },
-          {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O69",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU29",
-        "required_qty": 8,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 18
-          },
-          {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 14
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU45",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T21",
-            "location": "RA-31-155-2",
-            "qty": 25
-          },
-          {
-            "tote_id": "T58",
-            "location": "RB-11-69-10",
-            "qty": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O70",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU12",
-        "required_qty": 16,
-        "available_inventory": [
-          {
-            "tote_id": "T87",
-            "location": "RC-8-110-2",
-            "qty": 24
-          },
-          {
-            "tote_id": "T73",
-            "location": "RD-7-71-2",
-            "qty": 22
-          },
-          {
-            "tote_id": "T71",
-            "location": "RD-12-95-5",
-            "qty": 15
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU4",
-        "required_qty": 8,
-        "available_inventory": [
-          {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
-          },
-          {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O71",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU13",
-        "required_qty": 14,
-        "available_inventory": [
-          {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
-          },
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 28
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU5",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T88",
-            "location": "RA-25-94-1",
-            "qty": 20
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O72",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU49",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T43",
-            "location": "RA-12-169-8",
-            "qty": 11
-          },
-          {
-            "tote_id": "T155",
-            "location": "RA-34-132-1",
-            "qty": 27
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU17",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T64",
-            "location": "RA-22-173-1",
-            "qty": 15
-          },
-          {
-            "tote_id": "T10",
-            "location": "RC-35-14-1",
-            "qty": 29
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O73",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU19",
-        "required_qty": 8,
-        "available_inventory": [
-          {
-            "tote_id": "T174",
-            "location": "RC-24-81-4",
-            "qty": 29
-          },
-          {
-            "tote_id": "T167",
-            "location": "RC-25-53-7",
-            "qty": 22
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU42",
-        "required_qty": 14,
-        "available_inventory": [
-          {
-            "tote_id": "T171",
-            "location": "RA-1-30-4",
-            "qty": 24
-          },
-          {
-            "tote_id": "T130",
-            "location": "RA-9-96-2",
-            "qty": 21
-          },
-          {
-            "tote_id": "T46",
-            "location": "RB-4-57-10",
-            "qty": 19
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O74",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU39",
-        "required_qty": 13,
-        "available_inventory": [
-          {
-            "tote_id": "T8",
-            "location": "RA-35-151-2",
-            "qty": 10
-          },
-          {
-            "tote_id": "T29",
-            "location": "RA-22-118-1",
-            "qty": 20
-          },
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 23
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU45",
         "required_qty": 11,
         "available_inventory": [
-          {
-            "tote_id": "T21",
-            "location": "RA-31-155-2",
-            "qty": 25
-          },
-          {
-            "tote_id": "T58",
-            "location": "RB-11-69-10",
-            "qty": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O75",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU27",
-        "required_qty": 17,
-        "available_inventory": [
-          {
-            "tote_id": "T19",
-            "location": "RC-21-105-2",
-            "qty": 23
-          },
-          {
-            "tote_id": "T22",
-            "location": "RA-3-23-4",
-            "qty": 23
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU13",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T39",
-            "location": "RA-34-73-10",
-            "qty": 18
-          },
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 28
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O76",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU22",
-        "required_qty": 6,
-        "available_inventory": [
-          {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 24
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU14",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
-            "qty": 22
-          },
-          {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O77",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU47",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 10
-          },
-          {
-            "tote_id": "T96",
-            "location": "RC-8-76-8",
-            "qty": 26
-          },
-          {
-            "tote_id": "T59",
-            "location": "RD-36-52-6",
-            "qty": 12
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU33",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T109",
-            "location": "RB-23-50-5",
-            "qty": 13
-          },
-          {
-            "tote_id": "T111",
-            "location": "RA-25-170-5",
-            "qty": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O78",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU31",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 16
-          },
-          {
-            "tote_id": "T107",
-            "location": "RA-35-148-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T150",
-            "location": "RD-23-41-5",
-            "qty": 16
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU46",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T60",
-            "location": "RB-41-30-2",
-            "qty": 12
-          },
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 24
-          },
-          {
-            "tote_id": "T63",
-            "location": "RA-5-37-1",
-            "qty": 21
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O79",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU1",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU46",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T60",
-            "location": "RB-41-30-2",
-            "qty": 12
-          },
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 24
-          },
-          {
-            "tote_id": "T63",
-            "location": "RA-5-37-1",
-            "qty": 21
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O80",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU9",
-        "required_qty": 14,
-        "available_inventory": [
-          {
-            "tote_id": "T13",
-            "location": "RB-32-18-9",
-            "qty": 16
-          },
-          {
-            "tote_id": "T4",
-            "location": "RA-35-87-4",
-            "qty": 28
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU30",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T28",
-            "location": "RB-36-33-2",
-            "qty": 17
-          },
-          {
-            "tote_id": "T92",
-            "location": "RD-2-16-3",
-            "qty": 17
-          },
-          {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O81",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU17",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T64",
-            "location": "RA-22-173-1",
-            "qty": 15
-          },
-          {
-            "tote_id": "T10",
-            "location": "RC-35-14-1",
-            "qty": 29
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU9",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T13",
-            "location": "RB-32-18-9",
-            "qty": 16
-          },
-          {
-            "tote_id": "T4",
-            "location": "RA-35-87-4",
-            "qty": 28
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O82",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU38",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T40",
-            "location": "RA-35-79-1",
-            "qty": 24
-          },
-          {
-            "tote_id": "T114",
-            "location": "RB-22-37-2",
-            "qty": 16
-          },
-          {
-            "tote_id": "T103",
-            "location": "RA-27-144-1",
-            "qty": 10
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU39",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T8",
-            "location": "RA-35-151-2",
-            "qty": 10
-          },
-          {
-            "tote_id": "T29",
-            "location": "RA-22-118-1",
-            "qty": 20
-          },
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 23
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O83",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU31",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 16
-          },
-          {
-            "tote_id": "T107",
-            "location": "RA-35-148-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T150",
-            "location": "RD-23-41-5",
-            "qty": 16
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU37",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 15
-          },
-          {
-            "tote_id": "T18",
-            "location": "RA-1-88-8",
-            "qty": 23
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O84",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU20",
-        "required_qty": 5,
-        "available_inventory": [
-          {
-            "tote_id": "T90",
-            "location": "RA-9-118-8",
-            "qty": 16
-          },
-          {
-            "tote_id": "T73",
-            "location": "RD-7-71-2",
-            "qty": 11
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU46",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T60",
-            "location": "RB-41-30-2",
-            "qty": 12
-          },
-          {
-            "tote_id": "T85",
-            "location": "RB-17-2-10",
-            "qty": 24
-          },
-          {
-            "tote_id": "T63",
-            "location": "RA-5-37-1",
-            "qty": 21
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O85",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU33",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T109",
-            "location": "RB-23-50-5",
-            "qty": 13
-          },
-          {
-            "tote_id": "T111",
-            "location": "RA-25-170-5",
-            "qty": 18
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU56",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T74",
-            "location": "RB-38-10-4",
-            "qty": 12
-          },
-          {
-            "tote_id": "T176",
-            "location": "RA-15-63-6",
-            "qty": 20
-          },
           {
             "tote_id": "T148",
-            "location": "RC-34-56-7",
-            "qty": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O86",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU14",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
+            "location": "RC-10-36-4",
             "qty": 22
           },
           {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU3",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 21
-          },
-          {
-            "tote_id": "T94",
-            "location": "RA-5-81-6",
-            "qty": 13
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O87",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU2",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T142",
-            "location": "RD-41-88-2",
-            "qty": 13
-          },
-          {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 22
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU48",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T90",
-            "location": "RA-9-118-8",
-            "qty": 29
-          },
-          {
-            "tote_id": "T108",
-            "location": "RA-14-72-1",
-            "qty": 10
-          },
-          {
-            "tote_id": "T129",
-            "location": "RD-30-81-7",
-            "qty": 19
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O88",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU1",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU60",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 27
-          },
-          {
-            "tote_id": "T101",
-            "location": "RA-41-107-7",
-            "qty": 13
-          },
-          {
-            "tote_id": "T79",
-            "location": "RC-25-10-7",
-            "qty": 12
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O89",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU32",
-        "required_qty": 14,
-        "available_inventory": [
-          {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 28
-          },
-          {
-            "tote_id": "T165",
-            "location": "RC-33-100-3",
-            "qty": 27
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU35",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
-            "qty": 12
-          },
-          {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O90",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU53",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T11",
-            "location": "RD-25-25-8",
-            "qty": 16
-          },
-          {
-            "tote_id": "T126",
-            "location": "RC-28-36-4",
-            "qty": 16
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU27",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T19",
-            "location": "RC-21-105-2",
-            "qty": 23
-          },
-          {
-            "tote_id": "T22",
-            "location": "RA-3-23-4",
-            "qty": 23
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O91",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU22",
-        "required_qty": 17,
-        "available_inventory": [
-          {
-            "tote_id": "T26",
-            "location": "RA-36-16-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 24
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU38",
-        "required_qty": 18,
-        "available_inventory": [
-          {
-            "tote_id": "T40",
-            "location": "RA-35-79-1",
-            "qty": 24
-          },
-          {
-            "tote_id": "T114",
-            "location": "RB-22-37-2",
-            "qty": 16
-          },
-          {
-            "tote_id": "T103",
-            "location": "RA-27-144-1",
-            "qty": 10
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O92",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU49",
-        "required_qty": 10,
-        "available_inventory": [
-          {
-            "tote_id": "T43",
-            "location": "RA-12-169-8",
+            "tote_id": "T50",
+            "location": "RA-17-111-4",
             "qty": 11
-          },
-          {
-            "tote_id": "T155",
-            "location": "RA-34-132-1",
-            "qty": 27
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU1",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O93",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU37",
-        "required_qty": 13,
-        "available_inventory": [
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 15
-          },
-          {
-            "tote_id": "T18",
-            "location": "RA-1-88-8",
-            "qty": 23
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU50",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T140",
-            "location": "RD-35-90-1",
-            "qty": 13
-          },
-          {
-            "tote_id": "T164",
-            "location": "RC-10-98-2",
-            "qty": 20
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O94",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU7",
-        "required_qty": 13,
-        "available_inventory": [
-          {
-            "tote_id": "T22",
-            "location": "RA-3-23-4",
-            "qty": 24
-          },
-          {
-            "tote_id": "T109",
-            "location": "RB-23-50-5",
-            "qty": 11
-          },
-          {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 14
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU31",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T134",
-            "location": "RC-20-42-7",
-            "qty": 16
-          },
-          {
-            "tote_id": "T107",
-            "location": "RA-35-148-3",
-            "qty": 14
-          },
-          {
-            "tote_id": "T150",
-            "location": "RD-23-41-5",
-            "qty": 16
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O95",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU14",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T38",
-            "location": "RB-40-47-4",
-            "qty": 22
-          },
-          {
-            "tote_id": "T75",
-            "location": "RA-17-173-2",
-            "qty": 13
-          },
-          {
-            "tote_id": "T175",
-            "location": "RA-9-33-6",
-            "qty": 17
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU60",
-        "required_qty": 11,
-        "available_inventory": [
-          {
-            "tote_id": "T124",
-            "location": "RC-21-6-6",
-            "qty": 27
-          },
-          {
-            "tote_id": "T101",
-            "location": "RA-41-107-7",
-            "qty": 13
-          },
-          {
-            "tote_id": "T79",
-            "location": "RC-25-10-7",
-            "qty": 12
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O96",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU38",
-        "required_qty": 15,
-        "available_inventory": [
-          {
-            "tote_id": "T40",
-            "location": "RA-35-79-1",
-            "qty": 24
-          },
-          {
-            "tote_id": "T114",
-            "location": "RB-22-37-2",
-            "qty": 16
-          },
-          {
-            "tote_id": "T103",
-            "location": "RA-27-144-1",
-            "qty": 10
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU37",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 15
-          },
-          {
-            "tote_id": "T18",
-            "location": "RA-1-88-8",
-            "qty": 23
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O97",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU3",
-        "required_qty": 20,
-        "available_inventory": [
-          {
-            "tote_id": "T117",
-            "location": "RB-1-6-5",
-            "qty": 21
-          },
-          {
-            "tote_id": "T94",
-            "location": "RA-5-81-6",
-            "qty": 13
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU1",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T27",
-            "location": "RB-26-66-2",
-            "qty": 18
-          },
-          {
-            "tote_id": "T36",
-            "location": "RB-14-9-10",
-            "qty": 13
-          },
-          {
-            "tote_id": "T1",
-            "location": "RA-36-48-7",
-            "qty": 18
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O98",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU35",
-        "required_qty": 19,
-        "available_inventory": [
-          {
-            "tote_id": "T20",
-            "location": "RD-6-22-9",
-            "qty": 12
-          },
-          {
-            "tote_id": "T99",
-            "location": "RB-27-5-6",
-            "qty": 24
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU26",
-        "required_qty": 7,
-        "available_inventory": [
-          {
-            "tote_id": "T140",
-            "location": "RD-35-90-1",
-            "qty": 23
-          },
-          {
-            "tote_id": "T80",
-            "location": "RC-35-67-8",
-            "qty": 17
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O99",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU4",
-        "required_qty": 5,
-        "available_inventory": [
-          {
-            "tote_id": "T151",
-            "location": "RA-34-10-8",
-            "qty": 30
-          },
-          {
-            "tote_id": "T104",
-            "location": "RB-16-19-4",
-            "qty": 14
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU59",
-        "required_qty": 17,
-        "available_inventory": [
-          {
-            "tote_id": "T12",
-            "location": "RC-37-44-2",
-            "qty": 16
-          },
-          {
-            "tote_id": "T55",
-            "location": "RB-13-61-2",
-            "qty": 10
-          },
-          {
-            "tote_id": "T118",
-            "location": "RC-39-101-7",
-            "qty": 29
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "order_id": "O100",
-    "details": [
-      {
-        "line_id": "L1",
-        "sku_id": "SKU20",
-        "required_qty": 9,
-        "available_inventory": [
-          {
-            "tote_id": "T90",
-            "location": "RA-9-118-8",
-            "qty": 16
-          },
-          {
-            "tote_id": "T73",
-            "location": "RD-7-71-2",
-            "qty": 11
-          }
-        ]
-      },
-      {
-        "line_id": "L2",
-        "sku_id": "SKU21",
-        "required_qty": 12,
-        "available_inventory": [
-          {
-            "tote_id": "T122",
-            "location": "RC-14-15-9",
-            "qty": 30
-          },
-          {
-            "tote_id": "T25",
-            "location": "RD-8-2-2",
-            "qty": 20
-          },
-          {
-            "tote_id": "T119",
-            "location": "RA-19-117-6",
-            "qty": 25
           }
         ]
       }

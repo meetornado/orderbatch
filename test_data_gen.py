@@ -44,7 +44,7 @@ def assign_sku_inventory(tote_pool):
     return sku_inventory
 
 # 4. 生成订单数据
-def generate_orders(sku_inventory, num_orders=100):
+def generate_orders(sku_inventory, num_orders=50):
     orders = []
     sku_list = list(sku_inventory.keys())
     
